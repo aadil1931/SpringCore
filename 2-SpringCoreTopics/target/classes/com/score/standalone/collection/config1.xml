@@ -22,9 +22,6 @@
  <bean class="com.score.standalone.collection.Employee" name="emp">
   <property name="ename" ref="myemp"></property>
  	
- <!-- 	<property name="ename">
- 	   <ref bean="myemp"/>
- 	</property>
- -->
+ 
 </bean>
 </beans>
